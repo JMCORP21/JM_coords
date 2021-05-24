@@ -1,2 +1,6 @@
-# nm_coords
-Script para saber las cordenadas, te envia un mensaje al discord con las cordenadas
+#nm_coords
+[FiveM] Script que te envia las cordenadas al discord
+
+## Tutorial
+* IR a `server.lua` i añadir tu webhooks
+* Usar comando `/coordenadas` i poner el nombre de la posicion de las cordenadas 
