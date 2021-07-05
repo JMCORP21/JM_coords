@@ -1,4 +1,4 @@
-#nm_coords
+#jm_coords
 [FiveM] Script que te envia las cordenadas al discord
 
 ## Tutorial
